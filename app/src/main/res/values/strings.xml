@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ETEC-Boa Viagem</string>
+    <string name="usuario">Usário</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+
+
+    <string name="novoGasto">Novo Gasto</string>
+    <string name="novaViagem">Cadastro de Nova Viagem</string>
+    <string name="minhasViagens">Minhas Viajens</string>
+    <string name="config">Configurações</string>
+    <string name="destino">Destino</string>
+    <string name="tipoViagem">Tipo de Viagem</string>
+    <string name="lazer">Lazer</string>
+    <string name="negocios">Negócios</string>
+    <string name="dataChegada">Data de Chegada</string>
+    <string name="dataSaida">Data de saída</string>
+    <string name="orcamento">Orçamento</string>
+    <string name="quantidadedepessoas">No. de Pessoas</string>
+    <string name="salvar">Salvar</string>
+    <string name="selecione">Selecione</string>
+
+    <string name="tipoGasto">Tipo de Gasto</string>
+    <string name="valor">Valor</string>
+    <string name="data">Data</string>
+    <string name="descricao">Descrição</string>
+    <string name="local">Local</string>
+    <string name="mascara">"__/__/__"</string>
+</resources>
